@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833435158446",
+    "project_id": "attendancestudent-66466",
+    "storage_bucket": "attendancestudent-66466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833435158446:android:06f0cd3de59264c3ce6a3f",
+        "android_client_info": {
+          "package_name": "com.example.attendancestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833435158446-883omrhvduaqg5iva5kc8u83echtd29t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendancestudent",
+            "certificate_hash": "c055579f47ac5a2cb29f3af94aef34c83acb1e40"
+          }
+        },
+        {
+          "client_id": "833435158446-nkclengb0tonvct82cj3olnk5ndg27fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgu6wDB6skOmRtrnZMGFV99_v975zzRek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833435158446-nkclengb0tonvct82cj3olnk5ndg27fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
